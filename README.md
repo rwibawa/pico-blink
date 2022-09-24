@@ -1,4 +1,4 @@
-# rp2040-freertos
+# pico-blink
 How to setup dev environment to program Raspberry Pi Pico with C/C++ SDK.
 
 * [tutorial video](https://youtu.be/JhajoAyP8e4)
